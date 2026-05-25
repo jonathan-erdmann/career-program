@@ -1,10 +1,24 @@
-\documentclass{article}
-\usepackage{amsmath}
-\usepackage{mathtools}
-\usepackage{amsfonts}
-\newcommand*\plus{+{}}
-\newcommand*\boxSizeOfMax[1]{\makebox[\widthof{Max}][c]{#1}}
-\setlength\parindent{0pt}
+\documentclass[11pt]{article}
+
+\usepackage[margin=1.25in]{geometry}
+\usepackage{parskip}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fontenc}
+\usepackage{inputenc}
+
+\hypersetup{colorlinks=false}
+
+\titleformat{\section}{\normalfont\large\bfseries}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{}{0em}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\itshape}{}{0em}{}
+
+\titlespacing{\section}{0pt}{18pt}{6pt}
+\titlespacing{\subsection}{0pt}{12pt}{4pt}
+\titlespacing{\subsubsection}{0pt}{10pt}{4pt}
+
+\setlist[itemize]{itemsep=2pt, topsep=4pt}
 
 \begin{document}
 

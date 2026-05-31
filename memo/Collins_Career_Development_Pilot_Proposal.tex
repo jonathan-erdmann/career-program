@@ -1,0 +1,396 @@
+\documentclass{article}
+\usepackage{scrextend}
+\usepackage{parskip}
+\usepackage{microtype}
+\usepackage{geometry}
+\usepackage{footmisc}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+
+%\geometry{top=1in, bottom=1in, left=1in, right=1in}
+%\setlength\parindent{0pt}
+%\setlength{\parskip}{6pt}
+
+% Section numbering: Roman numerals at top level, Roman.Alpha at second level
+%\renewcommand{\thesection}{\Roman{section}}
+%\renewcommand{\thesubsection}{\Roman{section}.\Alph{subsection}}
+
+% Match the spare section style of the reference document
+%\usepackage{titlesec}
+%\titleformat{\section}{\normalfont\normalsize\bfseries}{\thesection.}{0.5em}{}
+%\titlespacing*{\section}{0pt}{14pt}{4pt}
+%\titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{0.5em}{}
+%\titlespacing*{\subsection}{0pt}{10pt}{3pt}
+
+% Footnotes flush with margin
+
+\setlength{\footnotemargin}{1.5em}
+
+% Page numbers centered at bottom, no header rule
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\small\thepage}
+
+% Compact lists
+\setlist[itemize]{noitemsep, topsep=3pt, leftmargin=1.5em}
+
+% ─────────────────────────────────────────────────────────────────────────────
+\begin{document}
+
+% Memo header — plain tabular, matching reference document's spare aesthetic
+\begin{tabular}{@{}ll}
+\textbf{To:}      & Kandyce Mumm              \\[3pt]
+\textbf{From:}    & Jonathan Erdmann          \\[3pt]
+\textbf{Subject:} & Proposal: Strategic Career Development Framework Pilot \\[3pt]
+\textbf{Date:}    & May 29, 2026                                           \\
+\end{tabular}
+
+%\noindent\rule{\textwidth}{0.4pt}
+\vspace{4pt}
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Executive Summary}
+
+Mission Systems conducts an annual individual development planning cycle that
+represents a meaningful investment of manager and employee time across the
+organization. Based on direct observation through one-on-one conversations and
+consistent findings across pulse survey data, the return on that investment is
+insufficient. Engineers are producing development plans that are shallow in
+quality, limited to a one-year horizon, and rarely executed against in any
+substantive way.
+
+This memo proposes a structured pilot program designed to address that gap
+across three dimensions: 
+
+\begin{addmargin}[2em]{3em}
+
+\textbf{Plan Quality and Executability}: By providing senior 
+	engineers with a rigorous, research-grounded framework for
+	building a genuine career strategy rather than a compliance document. 
+
+\textbf{Mentorship and Peer Development Activation}: The organization contains
+	significant relational and institutional capital at the senior level that is not
+	being converted into productive developmental relationships at the scale our
+	depth of talent should enable.
+
+\textbf{Organizational Development Velocity}: Senior engineers who 
+	cannot articulate their trajectories develop more
+	slowly, are harder to deploy strategically, and represent a 
+	compounding cost to succession readiness and retention over time. 
+
+\end{addmargin}
+
+Each dimension is a symptom of the same underlying condition: the 
+absence of a structured methodology that gives senior engineers the tools to translate 
+their domain expertise into a deliberate, executable career strategy. 
+
+The framework proposed here is grounded in validated research across career
+development, goal orientation, and professional identity literature, and has been
+designed with the specific context of senior technical professionals in
+program-driven environments in mind.  The proposed framework is a structured method 
+for producing better outputs from time the organization is already committing. 
+The author has applied the framework to his own career development plan, attached in anonymized
+form as \hyperref[AppendixC]{Appendix C}, as a demonstration of the
+method and the quality of output it produces.
+
+The proposed pilot is structured as follows: a cohort of 10 high-potential senior
+engineers (or above), selected in coordination with leadership, organized into five peer
+accountability pairs that will work collaboratively to build and
+pressure-test individual career strategies over a six-month period. 
+Defined success criteria will be assessed at the
+conclusion of the pilot, and a findings report delivered to leadership will
+include a recommendation on whether and how to scale the approach across the
+broader organization.
+
+The proposed next step is a 30-minute conversation to align on cohort selection,
+timeline, and organizational dependencies before launch, and to discuss the
+value of senior leadership sponsorship in signaling the program's organizational standing
+to pilot participants.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{The Problem}
+
+\subsection{Return on Administrative Overhead}
+
+The annual individual development planning cycle represents one of the more
+significant recurring investments of administrative overhead that the department 
+makes in its engineering workforce. Managers and engineers commit
+meaningful hours each cycle to a process designed in principle to produce
+clarity of direction, accelerate capability development, and strengthen the
+organization's talent pipeline. In practice, the outputs of that process fall
+consistently short of those objectives.
+
+The gap is not attributable to a lack of effort or intent on the part of either
+managers or engineers. It is attributable to the absence of a framework capable
+of producing the quality of output the process is ostensibly designed to
+generate. Without that structure, the annual cycle defaults to what is
+immediately legible - near-term skill gaps, current role performance, and
+training requests - rather than what is strategically valuable: a genuine,
+executable career strategy grounded in a clear understanding of where the
+individual is going and what it will take to get there. The result is an
+organization that spends the overhead without capturing the return.
+
+\subsection{Plan Quality and Execution Gap}
+
+The pattern this plan addresses is a structural condition and the natural outcome 
+of asking technically excellent people to perform a strategic planning exercise 
+without the tools to do it well. Engineers who are exceptionally capable of 
+solving complex technical problems within defined parameters are being asked to define their own
+parameters, articulate their own trajectory, and construct a multi-year strategy
+for their professional development without a methodology, a
+framework, and without a worked example of what a high-quality output looks
+like. The gap in plan quality is a predictable consequence of this condition and
+not a reflection of the capability of the individuals experiencing it.
+
+\subsection{Network and Mentorship Underutilization}
+
+Mission Systems carries significant mentorship potential within its senior
+engineering and leadership ranks including technical depth, program experience,
+and professional networks that represent genuine developmental value for the next generations of
+senior talent. This potential is not being converted into productive
+relationships at the scale the organization's depth of expertise should enable.
+
+Mentorship relationships form most naturally when both parties share a language for articulating
+development goals, identifying relevant experience, and defining what a
+productive relationship would produce. Without a common framework, the
+conditions for those conversations to begin are absent. Potential mentors have
+no clear mechanism for engaging, and potential mentees have not yet developed
+the strategic clarity to make a specific, meaningful ask. The relationships that
+do form tend to be informal, uneven in quality, and concentrated among engineers
+who already possess the professional confidence to seek them out, precisely
+the engineers who need them least.
+
+\subsection{Organizational Development Velocity}
+
+The consequences of the gap described above are compounding in nature.
+An organization whose senior engineers cannot articulate their trajectories
+develops more slowly than one that can, not because the individuals are less
+capable, but because deliberate development is more efficient than incidental
+development. Engineers who understand where they are going make better decisions
+about where to invest their discretionary effort, which stretch assignments to
+seek, which relationships to build, and which capabilities to develop ahead of
+demand rather than in response to it.
+
+At the senior engineer level, where the organization's investment per
+individual is highest and the lead time for developing strategic capability is
+longest, the cost of that inefficiency is most consequential. The
+three-to-five year horizon is where the compounding effect of deliberate versus
+incidental development becomes visible in succession readiness, capability
+depth, and retention. A pilot program that begins generating that compounding
+effect now produces organizational returns that a program launched two years
+from now cannot fully recover.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{The Proposed Framework}
+
+The framework is a three-layer strategic career management system that converts
+the existing IDP cycle from a compliance exercise into an executable personal
+strategy. The framework is designed specifically for senior technical professionals in
+program-driven environments and not adapted from a generic talent development
+instrument, but constructed from the ground up with the specific challenges of
+that population in mind. The terminal output is a Strategic Career Plan that is
+qualitatively different from our standard IDP in specificity, time horizon, and
+operational rigor. The full framework definition is provided in 
+\hyperref[AppendixA]{Appendix A}.
+
+\subsection{Framework Layers}
+
+The framework operates across three layers with distinct purposes and time horizons.
+\begin{addmargin}[2em]{3em}
+
+\textbf{Strategic Foundation}: Defines where the engineer is going and why they 
+	will thrive there. The strategy statements contain the enduring elements that anchor 
+	everything else within the plan: personal mission, positioning thesis, target functions, 
+	known gaps, and breakthrough goals. 
+
+\textbf{Operating Model}: Translates that strategy into an executable, milestone-gated plan organized 
+	around annual objectives, initiatives, and action items. Each element traces directly to a parent,
+	ensuring nothing in the plan exists without strategic justification. 
+
+\textbf{Performance Cadence}: Drives accountability and surfaces signals through four structured weekly,
+	monthly, quarterly, and annual review loops. Each review asks a distinct question about execution
+	and strategy alignment.
+
+\end{addmargin}
+
+\newpage
+
+\subsection{Course Correction Mechanism}
+
+The framework includes an explicit decision rule that distinguishes between problem types:
+\begin{addmargin}[2em]{3em}
+	\textbf{Execution Problems}: Actions are \textit{not} being completed and the Operating Model requires updating.
+
+	\textbf{Strategy Problems}: Actions \textit{are} being completed but leading indicators are not moving and the
+	Strategic Foundation requires recalibration.
+\end{addmargin}
+
+This mechanism prevents the two most common failure modes in personal development planning: the rigid plan that 
+never adapts, and the reactive plan that never generates signal.
+
+\subsection{Research and Methodological Foundation}
+
+The framework draws on validated research across career development,
+professional identity, and goal orientation literature, and adapts its
+operational architecture from Hoshin Kanri strategy deployment, phase-gate
+program management, and Work Breakdown Structure principles. The full
+theoretical foundation is summarized in \hyperref[AppendixB]{Appendix B}.
+
+%\footnote{The application of
+%this operational architecture to individual career strategy --- including the
+%correction mechanism and traceability requirement --- represents an original
+%adaptation not present in existing personal career development literature.}
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Pilot Design}
+
+\subsection{Scope}
+
+The pilot is proposed as a six-month program engaging a cohort of 10
+high-potential senior engineers selected in coordination with leadership. Cohort
+selection will prioritize engineers who represent the range of tenure, technical
+discipline, and career stage present across the broader deparment engineering population 
+and not exclusively the most advanced, but a cross-section capable of generating findings 
+relevant to a broader rollout. The cohort will be organized into five peer accountability 
+pairs for the duration of the pilot, with pairing designed to maximize complementary 
+experience profiles and developmental value for both participants.
+
+The pilot will be anchored to the existing annual IDP cycle wherever timing
+permits, with the intent of replacing rather than supplementing the standard IDP
+conversations for pilot participants. The objective is to demonstrate that the
+framework produces a superior output within the same time commitment the
+organization is already making.
+
+\subsection{Implementation Approach}
+
+The pilot will be delivered through a series of working sessions in which
+participants build their career strategies in real time rather than receiving
+instruction and completing work independently afterward. Between sessions, each
+peer pair will be responsible for continuing to develop and refine their
+individual plans, using their partner as a sounding board and a source of honest
+challenge. The facilitator will conduct structured check-ins at the two-month
+and four-month marks to assess plan development and make any necessary
+adjustments before the concluding session. Full implementation detail is
+provided in \hyperref[AppendixD]{Appendix D}.
+
+\subsection{Success Criteria}
+
+The pilot will be evaluated against four criteria at the six-month mark.
+
+
+\begin{addmargin}[2em]{3em}
+\textbf{Plan Quality}: Strategic Career Plans will be assessed for specificity,
+time horizon depth, and actionability relative to IDP outputs those same
+engineers produced in prior cycles representing a within-individual comparison that
+controls for variation in starting capability across the cohort.
+
+\textbf{Execution Rate}: Facilitator assessment at two-month and
+four-month check-ins will document whether participants are actively working
+against their plans rather than treating the completed document as a terminal
+artifact.
+
+\textbf{Relationship Formation}: New mentorship and peer development
+relationships formed among and beyond the cohort during the six-month period,
+as a direct measure of the framework's effectiveness in activating the
+relational potential the organization currently underutilizes.
+
+\textbf{Participant Assessment}: Structured qualitative feedback from each
+participant at pilot conclusion, informing the findings report and any
+recommendation to scale.
+\end{addmargin}
+
+
+\subsection{Reporting Commitment}
+
+At the conclusion of the six-month pilot, a findings report will be delivered
+to the sponsoring leader documenting performance against each success criterion,
+aggregating participant feedback, and making a specific recommendation on
+whether and how to scale the program across the broader 
+engineering organization. The findings report will not advocate for a
+predetermined conclusion. If the pilot surfaces evidence that the framework
+does not produce the outcomes proposed here, that finding will be reported
+accurately and a recommendation against formally implementing the plan will be
+provided.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Request}
+
+The author requests authorization to conduct a six-month pilot of the Strategic
+Career Development Framework as scoped in the above sections, with a cohort of 10
+high-potential senior engineers selected in coordination with sponsoring leadership,
+organized into five peer accountability pairs, and anchored to the existing
+annual IDP conversations.
+
+Two elements would meaningfully strengthen the pilot's organizational standing
+and increase the quality of its findings. The first is senior leadership-level sponsorship 
+to serve as a visible endorsement that signals to participants that the program 
+carries organizational weight and that the plans they produce will be seen and 
+considered by leadership. The second is alignment on cohort selection criteria before launch,
+to ensure the cross-section of participants is representative enough to generate findings 
+relevant to a broader rollout.
+
+The framework has been applied to the author's own career development plan,
+attached as \hyperref[AppendixC]{Appendix C}, as a demonstration of the methodology and the quality
+of output it produces.
+
+A 30-minute conversation to align on cohort selection, timing, and sponsorship
+before launch is proposed as the next step.
+
+\newpage
+\appendix
+
+\section{Framework Definition}
+\label{AppendixA}
+
+\newpage
+\section{Research Foundation}
+\label{AppendixB}
+
+\newpage
+\section{Author's Anonymized Strategic Career Development Plan}
+\label{AppendixC}
+%\input{../layer1/layer1-strategic-foundation.tex}
+
+\newpage
+\section{Pilot Program Implementation Plan}
+\label{AppendixD}
+
+% 
+%\vspace{20pt}
+%\noindent\rule{\textwidth}{0.4pt}
+%\vspace{4pt}
+
+% Appendix placeholders
+%\renewcommand{\thesection}{\Alph{section}}
+%\setcounter{section}{0}
+%\titleformat{\section}{\normalfont\normalsize\bfseries}{Appendix \thesection.}{0.5em}{}
+%
+%\section{Framework Definition}
+%
+%\textit{The complete three-layer framework definition --- governing principle,
+%Strategic Foundation, Operating Model, and Performance Cadence --- with
+%component definitions, element hierarchy, leveling guidance, and correction
+%mechanism. To be attached as a separate document.}
+%
+%\section{Research Foundation}
+%
+%\textit{Summary of the theoretical pillars underpinning the framework: career
+%capital theory, professional identity theory, goal orientation research, and
+%the operational architecture sources --- Hoshin Kanri, phase-gate program
+%management, and Work Breakdown Structure methodology. Key citations and brief
+%annotations for each. To be attached.}
+%
+%\section{Author's Strategic Career Development Plan}
+%
+%\textit{The author's Strategic Career Development Plan, produced using the
+%framework described in Section~III. Provided as a worked example of the
+%methodology and the quality of output it generates. To be attached.}
+%
+%\section{Pilot Design Detail}
+%
+%\textit{Full working session structure, facilitation approach, peer pairing
+%logic, check-in cadence, and success criteria definitions. To be attached.}
+
+\end{document}

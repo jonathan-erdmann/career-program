@@ -1,0 +1,333 @@
+\documentclass[11pt]{article}
+
+\usepackage[margin=1.25in]{geometry}
+\usepackage{parskip}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fontenc}
+\usepackage{inputenc}
+
+\hypersetup{colorlinks=false}
+
+\titleformat{\section}{\normalfont\large\bfseries}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{}{0em}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\itshape}{}{0em}{}
+\titleformat{\paragraph}[runin]{\normalfont\normalsize\bfseries}{}{0em}{}[.]
+
+\titlespacing{\section}{0pt}{18pt}{6pt}
+\titlespacing{\subsection}{0pt}{12pt}{4pt}
+\titlespacing{\subsubsection}{0pt}{10pt}{4pt}
+\titlespacing{\paragraph}{0pt}{8pt}{6pt}
+
+\setlist[itemize]{itemsep=2pt, topsep=4pt}
+\setlist[itemize,2]{itemsep=1pt, topsep=2pt}
+
+\begin{document}
+
+\begin{center}
+{\large\textbf{Layer 2 --- Operating Model}} \\[6pt]
+{\small Jonathan Erdmann \quad|\quad Last Updated: May 2026}
+\end{center}
+
+\vspace{8pt}
+
+The living roadmap. Translates Layer 1 strategy into an executable, milestone-gated plan organized as a node hierarchy. Every element traces to a parent. Every initiative has a definition of done. Every phase has a gate condition, not just a timeline.
+
+\textbf{Node hierarchy:} Breakthrough Goal $\rightarrow$ Annual Objective $\rightarrow$ Initiative $\rightarrow$ Action Item
+
+\textbf{ID convention:} BG = Breakthrough Goal, AO = Annual Objective, IN = Initiative, AI = Action Item. Numbering restarts under each parent node.
+
+\section{Phase Structure}
+
+\textbf{Phase 1 --- Foundation and Credential} (2026--2027) \\
+Gate: SMU EMBA complete; LinkedIn and resume rewritten for strategy positioning; internal visibility at Collins established with at least one executive sponsor identified.
+
+\textbf{Phase 2 --- Positioning and Transition} (2027--2028) \\
+Gate: Strategy-adjacent role or formal corporate strategy function secured within Collins at Senior Manager level or above.
+
+\textbf{Phase 3 --- Perform and Credential for Corp Dev} (2028--2029) \\
+Gate: At least one consequential strategic work product with traceable executive decision completed; M\&A adjacent exposure initiated.
+
+\textbf{Phase 4 --- Advance and Optionality} (2029--2031) \\
+Gate: Positioned credibly for corporate development role; CVC optionality assessed.
+
+\section{BG-01 --- Complete the SMU Executive MBA with Distinction}
+
+Target: May 2027. The most time-bound and definitive goal in the plan.
+
+\subsection{AO-01 --- Complete Term 3 Maintaining GPA on Track for Distinction (2026)}
+
+\subsubsection{IN-01 --- Strategic Management (STRA-6231)}
+
+\begin{itemize}
+  \item Google 2014 Case Analysis --- due May 22 \textit{(confirm submitted)}
+  \item Quiz: Competitive Advantage --- due May 22 \textit{(confirm submitted)}
+  \item AI Wars Case Analysis --- due May 30
+  \item Chainsaw 1978 Case Analysis --- due May 30
+  \item Komatsu in China Case Analysis --- due May 30
+  \item Quiz: Industry Analysis --- due May 30
+  \item Blockbuster Case Analysis --- due Jun 13
+  \item Disney Pixar Case Analysis --- due Jun 13
+  \item AI21 Case --- due Jun 13
+  \item Quiz: Competing Over Time --- due Jun 13
+  \item Strategic Analysis Project first draft --- due Jun 13
+  \item Newell Case Analysis --- due Jun 27
+  \item P\&G Case Analysis --- due Jun 27
+  \item Quiz: Business Diversification --- due Jun 27
+  \item Final Project --- due Jul 11
+\end{itemize}
+
+\subsubsection{IN-02 --- Managing Operations for Executives (BA-6230)}
+
+\begin{itemize}
+  \item Group Assignment 1 --- due May 30
+  \item Group Assignment 2 --- due Jun 13
+  \item Group Assignment 3 --- due Jun 27
+  \item Read \textit{The Goal} by Goldratt (ongoing through term)
+  \item Group Assignment 4 --- due Jul 11
+  \item Final Exam --- Jul 11
+\end{itemize}
+
+\subsubsection{IN-03 --- Global Business Project (BA-6210)}
+
+\begin{itemize}
+  \item Class 1 prep and quiz --- May 22 \textit{(confirm submitted)}
+  \item Class 2 prep --- May 29 \textit{(confirm submitted)}
+  \item Class 3 project milestone and prep --- Jun 12
+  \item Class 4 project review and prep --- Jun 26
+  \item Final Group Project presentation (virtual, 25 minutes) --- Jul 10
+\end{itemize}
+
+\subsection{AO-02 --- Complete Term 4 Maintaining GPA on Track for Distinction (2026)}
+
+\subsubsection{IN-01 --- Transformational Executive Leadership}
+
+\begin{itemize}
+  \item Obtain syllabus and populate assignments
+\end{itemize}
+
+\subsubsection{IN-02 --- Strategic Cost Management}
+
+\begin{itemize}
+  \item Obtain syllabus and populate assignments
+\end{itemize}
+
+\subsubsection{IN-03 --- Valuation and Analysis}
+
+\begin{itemize}
+  \item Obtain syllabus and populate assignments
+\end{itemize}
+
+\subsubsection{IN-04 --- Corporate Financial Policies}
+
+\begin{itemize}
+  \item Obtain syllabus and populate assignments
+\end{itemize}
+
+\subsection{AO-03 --- Complete Term 5 and Graduate with Distinction (2027)}
+
+\subsubsection{IN-01 --- Term 5 Preparation}
+
+\begin{itemize}
+  \item Submit Term 5 elective selections to advisor
+\end{itemize}
+
+\textit{IN-02 through IN-05 --- Term 5 courses to be defined once enrolled.}
+
+\section{BG-02 --- Establish a Credible Professional Narrative and Targeted Network}
+
+Success condition: the right people inside Collins and within the broader A\&D corporate strategy community know who you are, understand what you are building toward, and would surface your name when a relevant opportunity arises.
+
+\subsection{AO-01 --- Complete LinkedIn and Resume Rewrite for Corporate Strategy Positioning (2026)}
+
+\subsubsection{IN-01 --- LinkedIn Profile Rewrite}
+
+\begin{itemize}
+  \item Draft revised headline and about section using positioning thesis
+  \item Reframe experience entries to surface strategic work products
+  \item Build out skills section with strategy-relevant keywords
+  \item Request two targeted recommendations --- one superior, one peer
+  \item Schedule SMU Career Management Center profile review session
+  \item Publish profile and establish baseline LinkedIn search appearance metric
+  \item Track monthly search appearances filtered by corporate strategy and corporate development keywords; target consistent month-over-month growth
+\end{itemize}
+
+\subsubsection{IN-02 --- Resume Rewrite}
+
+\begin{itemize}
+  \item Schedule SMU Career Management Center resume review session
+  \item Incorporate CMC feedback and finalize resume for corporate strategy targeting
+  \item Tailor summary section to corporate strategy target function
+\end{itemize}
+
+\subsection{AO-02 --- Establish Internal Visibility at Collins and Identify Executive Sponsor (2027)}
+
+\subsubsection{IN-01 --- Build Executive Visibility within RTX}
+
+\begin{itemize}
+  \item Inform Kandyce of intent to reach out to Laura and confirm her awareness
+  \item Reach out to Laura for a 20-minute informational interview on how she navigated the engineering-to-general-management transition at Collins
+  \item Identify one or two additional internal Collins contacts through the Laura conversation
+  \item Reach out to Amanda (RTX Talent) for a conversation on navigating the RTX ecosystem and making career planning efforts more robust
+  \item Reconnect with Kathy (former RTX mentor, Director level) for a strategic conversation on the corporate strategy transition path
+  \item Identify 2 to 3 additional senior leaders at Collins whose remit touches corporate strategy, business development, or general management
+  \item Find credible contexts for engaging each --- program reviews, cross-functional initiatives, or direct conversations
+  \item Prepare a clear and confident answer to the question ``what are you working toward?'' consistent with your positioning thesis
+  \item Participate in at least one Collins-internal initiative with visibility above your current management chain
+\end{itemize}
+
+\subsubsection{IN-02 --- Secure Executive Sponsorship}
+
+\begin{itemize}
+  \item Based on visibility-building conversations, identify one senior leader with both organizational authority and genuine interest to advocate for your transition
+  \item Make a direct and specific ask for periodic guidance and advocacy as you develop toward a strategy-adjacent role
+  \item Establish a regular cadence of touchpoints --- quarterly at minimum --- to keep the sponsor informed of your progress
+\end{itemize}
+
+\subsection{AO-03 --- Build Targeted Network in Corporate Strategy at Large A\&D Primes (2026--2027)}
+
+\subsubsection{IN-01 --- External Network Development at Large A\&D Primes}
+
+\begin{itemize}
+  \item Research corporate strategy and corporate development functions at L3Harris, Northrop Grumman, Lockheed Martin, and BAE Systems
+  \item Identify 20+ specific individuals at Director level or above in target functions
+  \item Build a simple contact tracking list with name, company, function, and connection status
+  \item Send personalized connection requests with clear and credible context
+  \item Convert 5+ connections into substantive conversations via call or informational interview
+  \item Leverage SMU Cox alumni network specifically for A\&D strategy professionals
+  \item Attend at least one A\&D industry event where corporate strategy professionals are present
+\end{itemize}
+
+\subsubsection{IN-02 --- LinkedIn Content and Professional Visibility}
+
+\begin{itemize}
+  \item Draft and publish 3 to 5 articles at the intersection of A\&D domain knowledge and strategic analysis
+  \item Engage consistently with content from target contacts to build visibility before direct outreach
+  \item Track engagement metrics on published content --- views, comments, shares
+\end{itemize}
+
+\section{BG-03 --- Transition into a Strategy-Adjacent Role at Collins Aerospace}
+
+At the Senior Manager level or above. Collins is the first-move target. An external move to a large prime is the contingency if internal advancement stalls, assessed at the annual review.
+
+\subsection{AO-01 --- Expand Current Role Scope to Include Strategy-Adjacent Activities (2026)}
+
+\subsubsection{IN-01 --- Sustain Baseline Performance in Current Engineering Management Role}
+
+\begin{itemize}
+  \item Maintain billable utilization at or above target for all three teams
+  \item Document results with revenue impact framing for use in internal visibility conversations
+\end{itemize}
+
+\subsubsection{IN-02 --- Pursue Strategy-Adjacent Activities within Current Role}
+
+\begin{itemize}
+  \item Identify and volunteer for bids and proposals opportunities within Collins
+  \item Contribute to at least one capture strategy or BD effort with visibility to senior leadership
+  \item Identify other strategy-adjacent activities within current role scope --- program strategy, resource planning, make/buy analysis --- and actively pursue involvement
+  \item Document contributions to strategy-adjacent work as part of internal positioning narrative
+\end{itemize}
+
+\subsection{AO-02 --- Pursue Strategy-Adjacent Scope or Role within Collins (2027)}
+
+\subsubsection{IN-01 --- Sustain Baseline Performance in Current Engineering Management Role}
+
+\begin{itemize}
+  \item Maintain billable utilization at or above target for all three teams
+  \item Document results with revenue impact framing for use in internal visibility conversations
+\end{itemize}
+
+\subsubsection{IN-02 --- Continue and Deepen Strategy-Adjacent Activities within Current Role}
+
+\begin{itemize}
+  \item Build on BD and capture strategy involvement established in AO-01
+  \item Expand scope of strategy-adjacent contributions --- seek ownership of a discrete strategic problem or initiative
+  \item Document contributions as evidence for internal role transition conversations
+\end{itemize}
+
+\subsubsection{IN-03 --- Identify and Research Target Roles within Collins and RTX}
+
+\begin{itemize}
+  \item Map corporate strategy, business development, and general management roles within Collins and RTX at Senior Manager level or above
+  \item Identify which business units and functions are most receptive to internal transitions from engineering management
+  \item Track posted and anticipated openings in target functions
+\end{itemize}
+
+\subsubsection{IN-04 --- Build Relationships with Hiring Managers in Target Functions}
+
+\begin{itemize}
+  \item Leverage executive sponsorship and internal network to identify hiring managers in target functions
+  \item Initiate conversations with hiring managers before roles are posted
+  \item Position yourself as a known internal candidate through consistent visibility and direct relationship development
+\end{itemize}
+
+\subsubsection{IN-05 --- Execute Formal Application and Selection Process}
+
+\begin{itemize}
+  \item Apply to at least one internal Collins or RTX strategy-adjacent role when a credible opportunity is identified
+  \item Use SMU CMC resources for internal mobility coaching and interview preparation
+  \item Prepare and rehearse a clear and compelling narrative for internal interviews grounded in positioning thesis
+\end{itemize}
+
+\section{BG-04 --- Own a Consequential Strategic Work Product with Traceable Executive Decision}
+
+Success condition: a market assessment, portfolio recommendation, competitive analysis, or strategic initiative where the link between the work and the decision is direct and attributable.
+
+\subsection{AO-01 --- Deliver at Least One Consequential Strategic Work Product (2028--2029)}
+
+\subsubsection{IN-01 --- Identify and Own a High-Visibility Strategic Initiative}
+
+\begin{itemize}
+  \item Within first 90 days in a strategy-adjacent role, identify the highest-impact analytical or strategic problem available to own
+  \item Propose ownership of the initiative to your manager with a clear framing of the problem, the analytical approach, and the expected output
+  \item Deliver a structured work product --- market assessment, competitive analysis, portfolio recommendation, or strategic initiative --- with a clear recommendation and supporting logic
+  \item Present findings to senior leadership and document the decision or action that resulted
+\end{itemize}
+
+\subsubsection{IN-02 --- Build a Personal Library of Strategic Work Products}
+
+\begin{itemize}
+  \item Maintain a running record of strategic analyses, frameworks, and recommendations produced in role
+  \item Ensure each work product is documented with the decision it informed and the outcome that followed
+  \item Use this library as the evidence base for future positioning conversations and career reviews
+\end{itemize}
+
+\subsection{AO-02 --- Develop M\&A Adjacent Exposure (2029)}
+
+\subsubsection{IN-01 --- Build M\&A Process Knowledge and Exposure}
+
+\begin{itemize}
+  \item Identify internal transaction support, partnership structuring, or build/buy/partner analysis opportunities within Collins or RTX
+  \item Volunteer to support at least one M\&A adjacent process --- due diligence, integration planning, or strategic partnership evaluation
+  \item Complete at least one structured M\&A or corporate development course or certification to formalize process knowledge
+\end{itemize}
+
+\section{BG-05 --- Be Positioned Credibly for a Corporate Development Role at a Large A\&D Prime}
+
+With M\&A adjacent exposure and financial modeling depth sufficient to compete as a serious candidate. Directional objectives to be refined at Phase 3 annual review.
+
+\subsection{AO-01 --- Develop Financial Modeling Depth Sufficient for Corporate Development (2029--2030)}
+
+\subsubsection{IN-01 --- Build Applied Financial Modeling Capability}
+
+\begin{itemize}
+  \item Apply Valuation and Analysis and Corporate Financial Policies coursework from EMBA in a professional context
+  \item Identify opportunities within strategy role to build and present financial models --- business cases, investment analyses, portfolio valuations
+  \item Complete at least one external financial modeling course or certification beyond the EMBA --- candidates include CFA Level 1 or a dedicated financial modeling program
+  \item Develop fluency with M\&A valuation methodologies --- DCF, comparable company analysis, precedent transactions
+\end{itemize}
+
+\subsection{AO-02 --- Position Credibly for a Corporate Development Role (2030--2031)}
+
+\subsubsection{IN-01 --- Build Corporate Development Market Presence and Candidacy}
+
+\begin{itemize}
+  \item Identify and research corporate development functions and active practitioners at RTX, L3Harris, Northrop Grumman, and Lockheed Martin
+  \item Develop relationships specifically within corporate development functions at large primes --- distinct from the broader strategy network
+  \item Assess internal RTX corporate development opportunities as a first-move option given existing relationships
+  \item Prepare a corporate development-specific positioning narrative grounded in strategy credentials, M\&A exposure, and financial modeling depth
+  \item Target at least one corporate development role application with a complete and compelling candidacy
+\end{itemize}
+
+\end{document}

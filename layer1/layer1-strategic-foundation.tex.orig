@@ -1,0 +1,135 @@
+\documentclass[11pt]{article}
+
+\usepackage[margin=1.25in]{geometry}
+\usepackage{parskip}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fontenc}
+\usepackage{inputenc}
+
+\hypersetup{colorlinks=false}
+
+\titleformat{\section}{\normalfont\large\bfseries}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{}{0em}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\itshape}{}{0em}{}
+
+\titlespacing{\section}{0pt}{18pt}{6pt}
+\titlespacing{\subsection}{0pt}{12pt}{4pt}
+\titlespacing{\subsubsection}{0pt}{10pt}{4pt}
+
+\setlist[itemize]{itemsep=2pt, topsep=4pt}
+
+\begin{document}
+
+\begin{center}
+{\large\textbf{Layer 1 --- Strategic Foundation}} \\[6pt]
+{\small Jonathan Erdmann \quad|\quad Last Reviewed: May 2026}
+\end{center}
+
+\vspace{8pt}
+
+The anchor document of the Career Program. Content in this layer operates at the level of enduring truth. Statements here should remain stable across the full planning horizon and require deliberate annual review before they are changed. Every element in Layers 2 and 3 must be traceable to something written here.
+
+\section{Personal Mission}
+
+To apply deep domain expertise and rigorous analytical thinking to complex, high-stakes problems in aerospace and defense --- owning the full arc from problem definition to decision --- such that consequential decisions can be directly traced to the quality of my work.
+
+\section{Positioning Thesis}
+
+Two decades in aerospace and defense --- across structural integrity programs, mission-critical systems, engineering organizations, and workforce management at scale --- has produced deep domain fluency, technical judgment, and a firsthand understanding of how programs get executed and how organizations perform. An Executive MBA in finance and strategy adds the quantitative and analytical toolkit to operate in corporate strategy, corporate development, and investment functions. Together these form a professional profile that moves fluidly between technical substance, organizational dynamics, and strategic implications --- capabilities that converge rarely and matter consistently in aerospace and defense.
+
+\section{Target Functions}
+
+Target functions are sequenced deliberately. Near-term targets inform the operating model immediately. Medium and long-term targets inform capability development decisions and are actively revisited at each annual review.
+
+\subsection{Corporate Strategy --- Near-Term Primary Target}
+
+The internal advisory function supporting C-suite decision-making at a large prime. Owns strategic planning cycles, competitive intelligence, market sizing, portfolio tradeoffs, and build/buy/partner analysis. Output is recommendations and frameworks, not transactions or operational decisions. The work is analytical and influence-driven --- shaping decisions without always owning their execution. At a large prime this function sits close to the CEO and business unit presidents, making it one of the highest-visibility staff roles available to someone without a P\&L.
+
+\textbf{Entry angle:} The positioning thesis directly supports this function --- domain fluency, technical judgment, and quantitative finance training are precisely what differentiates a strong corporate strategy candidate at a defense prime from a generalist consultant. The gap to close is the strategy title itself and demonstrated exposure to strategic planning processes, which the operating model must address explicitly.
+
+\subsection{Corporate Development --- Medium-Term Target}
+
+The transaction-execution function. Owns M\&A sourcing, financial modeling, due diligence, deal structuring, and integration planning. Success is measured in closed transactions and realized synergies, not recommendations. At a large prime this function operates with significant financial authority and works directly with executive leadership and external advisors on inorganic growth decisions.
+
+\textbf{Entry angle:} Direct entry without prior corporate development or investment banking experience is uncommon. The credible path is through corporate strategy first, where exposure to build/buy/partner analysis, portfolio reviews, and strategic transactions creates a natural bridge. The operating model should include deliberate M\&A adjacent activities --- whether internal transaction support, partnership structuring, or strategic initiative ownership --- that begin building this credential during Phase 2.
+
+\subsection{Corporate Venture Capital --- Long-Term Option}
+
+The investment function focused on minority stakes in early-to-growth stage companies, typically housed within a prime's dedicated investment arm. Balances strategic fit --- technology scouting, capability adjacencies, ecosystem development --- with financial return. In aerospace and defense, CVC often functions as a forward-deployed R\&D pipeline, identifying technologies before they are mature enough for acquisition. Investment theses are evaluated on both strategic relevance and commercial viability.
+
+\textbf{Entry angle:} Technical domain depth in aerospace and defense systems is a genuine differentiator in this function --- the ability to evaluate whether a technology is real, a team is credible, and a capability is strategically relevant is rare among people with the business credentials to operate in an investment role. The credible path runs through corporate development, where deal evaluation and financial modeling skills are formalized, or through sufficient ecosystem visibility that a CVC role becomes a direct lateral. Preserved as optionality; not actively targeted until Phase 2 is complete.
+
+\section{Known Gaps}
+
+Gaps are assessed across two domains --- competency and positioning --- and three time horizons corresponding to the target function sequence. Near-term gaps are assessed in detail. Medium and long-term gaps are assessed directionally and revisited at each annual review.
+
+Competency gaps address the ability to perform and thrive once in the role. Positioning gaps address the ability to be considered for and selected into the role. Both must be addressed. Closing one at the expense of the other produces either an unprepared candidate or an invisible one.
+
+Competency is assessed first because execution of the mission depends on the quality of the work, not the quality of the positioning.
+
+\subsection{Near-Term --- Corporate Strategy}
+
+\subsubsection{Competency Gaps}
+
+\textbf{Strategic Analysis \& Frameworks --- Developing.}
+Some exposure through coursework and work experience but not yet practiced independently at the level required to structure and solve ambiguous, high-stakes problems without guidance. Formal frameworks have been introduced through the EMBA but applied experience in a corporate strategy context is limited. This is the most critical competency gap to close given the centrality of structured analytical thinking to the target function.
+
+\textbf{Financial Acumen --- Developing.}
+Foundational understanding established through EMBA coursework but limited applied experience building, stress-testing, or presenting financial models in a business context. Fluency with financial statements and capital allocation logic exists at a conceptual level but has not yet been exercised in a corporate strategy or corporate development setting.
+
+\textbf{Industry \& Domain Knowledge --- Developing.}
+Deep operational knowledge from within the industry but limited breadth across the competitive landscape, program economics at the enterprise level, and technology trends outside areas of direct experience. The domain depth is a genuine asset; the gap is in breadth and in the ability to synthesize across the landscape rather than within a specific program or system.
+
+\textbf{Executive Communication --- Proficient.}
+Capable of structuring and delivering findings to senior leadership with room to sharpen at the corporate level. The gap is in consistency, precision under scrutiny, and the ability to compress complex analysis into the format and cadence that corporate strategy demands.
+
+\textbf{Stakeholder Navigation --- Proficient.}
+Capable of navigating organizational complexity and building credibility across functions without direct authority. The gap is in operating at the corporate level where political complexity, ambiguity of authority, and the stakes of decisions are materially higher.
+
+\subsubsection{Positioning Gaps}
+
+\textbf{Professional Narrative --- Developing.}
+A narrative exists grounded in two decades of A\&D experience but is not yet coherent or tailored to corporate strategy. Current profile and resume position as an engineering manager, not a strategist. The work required is reframing existing experience --- which includes genuine strategic work products --- into a story that is legible and compelling to a decision-maker in the target function.
+
+\textbf{External Visibility --- Developing.}
+A LinkedIn profile exists but is not yet visible to the right people in the target function. No thought leadership presence, no recognition in corporate strategy or corporate development circles at large primes. The gap is both reach and relevance.
+
+\textbf{Network --- Developing.}
+Broad professional network but not targeted to corporate strategy or corporate development functions at large primes. Limited relationships with people who could surface a name when an opportunity arises or provide insider context on how these functions operate.
+
+\textbf{Internal Positioning --- Developing.}
+Some visibility to senior leadership at Collins through current role performance but not yet associated with strategic capability or ambition beyond engineering management. No executive sponsor actively advocating for development or advancement into a strategy-adjacent role.
+
+\textbf{Credentials --- Developing.}
+EMBA in progress; completion expected May 2027. No strategy-adjacent title or role held to date. Note: part of this gap is a framing problem rather than a substance problem. Two decades of career history contains genuine strategic work products that are not currently documented or presented as such. Closing this gap requires both completing the EMBA and surfacing existing experience in a way that is legible to a hiring decision-maker in the target function.
+
+\subsection{Medium-Term --- Corporate Development}
+
+To be assessed directionally following completion of near-term gap closure. Key anticipated gaps include transaction experience, financial modeling depth, and M\&A process knowledge. Full assessment to be conducted at the Phase 2 annual review.
+
+\subsection{Long-Term --- Corporate Venture Capital}
+
+To be assessed at a high level following completion of medium-term gap closure. Key anticipated gaps include investment thesis development, startup evaluation, and portfolio management experience. Full assessment to be conducted at the Phase 3 annual review.
+
+\section{Breakthrough Goals}
+
+Breakthrough goals define what success looks like at the five-year horizon. They are written as conditions, not activities --- statements that would be unambiguously true if the strategy has been executed well. Each goal traces to the personal mission and positioning thesis. Goals are sequenced deliberately --- earlier goals are prerequisites to later ones.
+
+\textbf{Goal 1 --- Complete the SMU Executive MBA with distinction.}
+Target: May 2027. The most time-bound and definitive goal in the plan. Completion closes the credential gap and activates the quantitative finance and strategic analysis toolkit required to perform in the target function. Distinction signals the seriousness of the credential to a hiring decision-maker.
+
+\textbf{Goal 2 --- Establish a coherent, credible professional narrative tailored to corporate strategy and a targeted network of relevant relationships --- internally at Collins Aerospace and externally at large A\&D primes.}
+Success condition: the right people inside Collins and within the broader A\&D corporate strategy community know who you are, understand what you are building toward, and would surface your name when a relevant opportunity arises. Internal positioning takes priority in the near term given the Collins-first transition strategy.
+
+\textbf{Goal 3 --- Transition into a strategy-adjacent role or formal corporate strategy function within Collins Aerospace at the Senior Manager level or above.}
+Collins is the first-move target because existing relationships, organizational knowledge, and demonstrated performance reduce the credibility gap that an external employer would require evidence to close. An external move to a corporate strategy function at another large prime is the contingency if internal advancement stalls, assessed at the annual review.
+
+\textbf{Goal 4 --- Own at least one consequential strategic work product within Collins Aerospace where the output directly informed a senior executive decision.}
+Success condition: a market assessment, portfolio recommendation, competitive analysis, or strategic initiative with a traceable outcome --- where the link between the work and the decision is direct and attributable.
+
+\textbf{Goal 5 --- Be positioned credibly for a corporate development role at a large A\&D prime, with M\&A adjacent exposure and financial modeling depth sufficient to compete as a serious candidate.}
+This goal preserves the medium-term target without conflating it with the near-term transition. It is achieved through the combination of corporate strategy credentialing, deliberate pursuit of M\&A adjacent activities, and deepening financial acumen during Phases 2 and 3.
+
+\end{document}

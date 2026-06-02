@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.24)  30 MAY 2026 17:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.24)  31 MAY 2026 19:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -230,6 +230,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 LaTeX Warning: No \author given.
 
+
+Overfull \hbox (0.9729pt too wide) in paragraph at lines 43--48
+\OT1/cmr/m/n/10 The in-ter-nal ad-vi-sory func-tion sup-port-ing C-suite decisi
+on-making at large firms.
+ []
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6]
@@ -252,7 +258,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on layer1-strategic-foundation.pdf (6 pages, 96041 bytes).
+Output written on layer1-strategic-foundation.pdf (6 pages, 96191 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.24)  30 MAY 2026 16:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.24)  2 JUN 2026 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -233,7 +233,7 @@ LaTeX Warning: No \author given.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
-Overfull \hbox (12.74445pt too wide) in paragraph at lines 161--164
+Overfull \hbox (12.74445pt too wide) in paragraph at lines 162--165
 []\OT1/cmr/bx/n/10 Target func-tions: \OT1/cmr/m/n/10 De-fined with three el-e-
 ments: a func-tional de-scrip-tion grounded
  []
@@ -259,7 +259,7 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on framework-definition.pdf (6 pages, 102769 bytes).
+Output written on framework-definition.pdf (6 pages, 102322 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream

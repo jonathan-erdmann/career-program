@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.24)  30 MAY 2026 16:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.24)  12 JUN 2026 17:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -366,37 +366,59 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 70.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8
-] [9]
+]
 (./Collins_Career_Development_Pilot_Proposal.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-Package rerunfilecheck Info: File `Collins_Career_Development_Pilot_Proposal.ou
-t' has not changed.
-(rerunfilecheck)             Checksum: F06ABC832B2F8456906A1A657BECAB65;3517.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `Collins_Career_Development_Pilot_Proposal
+.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Collins_Career_Development_Pilot_Pr
+oposal.out':
+(rerunfilecheck)             Before: F06ABC832B2F8456906A1A657BECAB65;3517
+(rerunfilecheck)             After:  BB50D53C9BE9133825D6ADBB8D5F02CC;3192.
  ) 
 Here is how much of TeX's memory you used:
- 11517 strings out of 476182
- 186247 string characters out of 5795595
+ 11550 strings out of 476182
+ 186660 string characters out of 5795595
  1937975 words of memory out of 5000000
- 33302 multiletter control sequences out of 15000+600000
- 563030 words of font info for 94 fonts, out of 8000000 for 9000
+ 33319 multiletter control sequences out of 15000+600000
+ 565108 words of font info for 105 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  108i,11n,107p,1038b,508s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Collins_Career_Development_Pilot_Proposal.pdf (9 pages, 94571
- bytes).
+
+pdfTeX warning (dest): name{appendix.D} has been referenced but does not exist,
+ replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmti10.pfb>
+Output written on Collins_Career_Development_Pilot_Proposal.pdf (8 pages, 12166
+0 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
+ 177 PDF objects out of 1000 (max. 8388607)
+ 149 compressed objects within 2 object streams
  30 named destinations out of 1000 (max. 500000)
- 20641 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 24737 words of extra memory for PDF output out of 24883 (max. 10000000)
 
